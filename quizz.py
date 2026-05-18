@@ -5,5 +5,5 @@ if resposta ="B":
 else:
   print("Você errou, Tente Novamente!❌")
 print("2-Qual equipe é conhecida pela cor vermelha tradicional? /n A-Ferrari /n B-Mercedes /n C-McLaren")
-if resposta_2 ="A"
+
   
